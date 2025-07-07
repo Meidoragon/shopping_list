@@ -35,8 +35,3 @@ uninteruptible power supply
 
 {slowcooker/crockpot/instant pot} //not sure which are name brands or if there are differences, which I actually want
 
-low shelf with the following dimensions
- - Between 643mm and 700mm long
- - Between 212mm and 230mm wide
- - Must be no taller than 100mm
- - Must have wheels, or able to slide out from it's static position along its longest edge
