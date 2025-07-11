@@ -21,17 +21,8 @@ lamps (possibly IoT?)
 
 better cook pot
 
-ceramic cutting board //TODO: get dimensions
-
-rice cooker (1-2 cups)
-
-water purifying pitcher
-
 non-plastic eatery
 
 variable power supply
 
 uninteruptible power supply
-
-{slowcooker/crockpot/instant pot} //not sure which are name brands or if there are differences, which I actually want
-
