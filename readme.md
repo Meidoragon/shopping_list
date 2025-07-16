@@ -9,7 +9,7 @@ linens {bedding/towels}
 
 couch //TODO: get dimensions
 
-tv (stupid)
+television (stupid)
 
 tv stand
 
@@ -26,3 +26,7 @@ non-plastic eatery
 variable power supply
 
 uninteruptible power supply
+
+dish drying rack
+
+friar tuck's cousin, friar air
