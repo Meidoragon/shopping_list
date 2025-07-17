@@ -32,3 +32,7 @@ dish drying rack
 friar tuck's cousin, friar air
 
 straw cleaner (for teapot nozzle)
+
+drawer liner * 5
+
+silverware holder
