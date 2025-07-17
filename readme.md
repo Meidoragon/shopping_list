@@ -30,3 +30,5 @@ uninteruptible power supply
 dish drying rack
 
 friar tuck's cousin, friar air
+
+straw cleaner (for teapot nozzle)
